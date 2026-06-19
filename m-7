@@ -1,0 +1,3 @@
+a = {'x':50,'y':70}
+b = dict(map(lambda x:(x[0],(x[1]//10)+x[1]),a.items()))
+print(b)
