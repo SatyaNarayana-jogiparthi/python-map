@@ -1,0 +1,3 @@
+a = ["s","a","t","y","a"]
+b = list(map(lambda x: x.upper(),a))
+print(b)
