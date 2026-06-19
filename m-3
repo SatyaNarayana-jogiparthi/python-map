@@ -1,0 +1,3 @@
+a = ["hai","satya","nani"]
+b = list(map(len,a))
+print(b)
